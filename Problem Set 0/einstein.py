@@ -1,0 +1,5 @@
+m = input("m: ")
+m = float(m)
+e = float(m * 300000000 ** 2)
+e = int(e)
+print(f"{e}")
